@@ -1,0 +1,15 @@
+.align {
+    float: left;
+    padding: 10px;
+    text-align: center;
+  }
+
+body{
+  background: url("../images/background.png") repeat;
+  background-color: #c6c5c7c9;
+  margin: 20px;
+}
+
+.col-lg-3{
+  margin-top: 20px;
+}
